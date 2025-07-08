@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+
+
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: cadetblue;
+}
+
+
+#box2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(95, 160, 146);
+}
+
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(237, 48, 161);
+}
+
+h1{
+    color: palevioletred;
+}
+h2{
+    color: pink;
+}
